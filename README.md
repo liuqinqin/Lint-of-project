@@ -23,6 +23,10 @@ Examples：
 - list: post list page
 - creation: post edit page
 
+#### Script Support
+
+You can use `npm run commit` to easy to commit a standard message through prompts and options.
+
 ## License
 
 Copyright (c) 2018-present
