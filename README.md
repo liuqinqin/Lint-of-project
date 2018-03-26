@@ -25,4 +25,4 @@ Examples：
 
 ## License
 
-Copyright (c) 2018-present, MEX Front-End Team
+Copyright (c) 2018-present
